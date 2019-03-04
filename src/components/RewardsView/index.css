@@ -1,0 +1,30 @@
+.rewards-view-nav-tab {
+    border-bottom: 0;
+    color: #9b9b9b;
+    margin-top: 1vh;
+}
+
+.rewards-view-nav-tab .rewards-view-nav-link.active, .rewards-view-nav-item.show .rewards-view-nav-link {
+    color: #35a5b5 !important;
+    background-color: transparent;
+    border-color: transparent;
+    border-bottom: 0;
+}
+
+.rewards-view-nav-link {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 0.1vh;
+    margin-bottom: 0.5vh;
+}
+
+.vertical-divider {
+    height: 2.2rem;
+    margin: 0 9px;
+    border-right: 1px solid #ffffff;
+    border-left: 1px solid #979797;
+}
+
+.tab-hr {
+    border-top: solid 1px #cccccc;
+}

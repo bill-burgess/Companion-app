@@ -1,0 +1,216 @@
+
+.bannerImg {
+  width: 100%;
+}
+
+.sectionPageTitle {
+  text-align: left;
+  color: #35a5b5;
+  height: 23px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.06;
+  padding-top: 13px;
+}
+
+.sectionPageContent {
+  height: 84px;
+  font-size: 16px;
+  line-height: 1.31;
+  text-align: left;
+  color: #373a3c;
+  padding-top: 6px;
+}
+
+.sectionPageContent.supportAndHelp {
+  margin-bottom: 20px;
+}
+
+.myCalendarTitle {
+  height: 23px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.06;
+  text-align: left;
+  color: #ffffff;
+  padding-left: 14px;
+  padding-top: 17px;
+}
+
+.myCalendarCard {
+  width: 100%;
+  height: 90px;
+  border-radius: 4px;
+  background-color: #35a5b5;
+  border: none;
+  margin-top: 20px;
+}
+
+.myCalendarText {
+  height: 24px;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #373a3c;
+  padding-left: 14px;
+  padding-top: 6px;
+}
+
+.angleCalendar {
+  padding-top: 15px;
+  padding-right: 12px;
+}
+
+.linkText {
+  height: 24px;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #373a3c;
+  padding-left: 14px;
+  padding-top: 6px;
+}
+
+.linkTitle {
+  height: 23px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.06;
+  text-align: left;
+  color: #35a5b5;
+  padding-left: 14px;
+  padding-top: 17px;
+}
+
+.linkCard {
+  width: 100%;
+  height: 79px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: solid 1px #e5e5e5;
+  margin-top: 9px;
+}
+
+.angleLink {
+  margin-top: 25px;
+  margin-right: 15px;
+  height: 30px;
+}
+
+.readMore {
+  height: 23px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.06;
+  text-align: left;
+  color: #35a5b5;
+}
+
+.hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.li {
+  list-style: none;
+  font-size: 16px;
+  line-height: 2;
+  text-align: left;
+  color: #fd7171;
+  text-decoration: underline;
+  margin-left: -40px;
+}
+
+.helpLine {
+  height: 275px;
+  background-color: #f9f8f8;
+  border-radius: 0px;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.heartImg {
+  width: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.helpLineTitle {
+  height: 16px;
+  font-size: 14px;
+  text-align: center;
+  color: #777777;
+  margin-bottom: 2px;
+}
+
+.helpLineText {
+  height: 22px;
+  font-size: 19px;
+  line-height: 1.11;
+  text-align: center;
+  color: #ef005c;
+}
+
+.pepiOraSectionPadding {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.furtherAssistanceTitle {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.furtherAssistanceEmail {
+  margin-top: -25px;
+  font-size: 16px;
+  color: #fd7171;
+  text-decoration: underline;
+  margin-bottom: -30px;
+}
+
+.pepiOraDescription {
+  margin-bottom: -20px;
+}
+
+.pointsCard {
+  height: 79px;
+  border-radius: 4px;
+  background-color: #fd7171;
+  border: none;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+.pointsCardTitle {
+  height: 23px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.06;
+  text-align: left;
+  color: #ffffff;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.pointsCardText {
+  height: 24px;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #373a3c;
+  margin-left: 20px;
+}
+
+.pointsCardTrophyImg {
+  height: 38px;
+  margin-top: 20px;
+  margin-right: 15px;
+}
+
+.rewardsSupportMargin {
+  margin-bottom: 20px;
+}

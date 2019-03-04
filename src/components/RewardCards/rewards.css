@@ -1,0 +1,28 @@
+.searchInput {
+  margin-top: 1.5vh;
+  font-size: 16px;
+  line-height: 1.31;
+  text-align: left;
+  color: #999999;
+}
+
+.searchDropdownInput {
+  margin-top: 1.5vh;
+  padding: 6px 10px;
+  font-size: 16px;
+  line-height: 1.31;
+  text-align: left;
+  color: #999999;
+}
+
+.rewardCount {
+  margin-top: 3vh;
+  text-align: left;
+  font-size: 14px;
+  color: #656565;
+}
+
+/* Turn off image rounding */
+.card-img {
+  border-radius: 0;
+}

@@ -1,0 +1,45 @@
+
+.carousel-greeting{
+  font-size:18px;
+  color:#35a5b5;
+  margin-top: 2vh;
+}
+
+.d-block{
+  height: 25vh;
+  border-color: white;
+  border: none;
+  display: block !important;
+
+}
+
+.carousel-indicators li{
+  background-color: black;
+  z-index: -5;
+}
+
+.carousel-indicators .active{
+  background-color: #35a5b5;
+  z-index: -5;
+}
+
+.carousel-link{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 18px;
+  color: #fd7171;
+}
+
+.carousel-caption.d-none.d-md-block{
+  text-align:center;
+  width: 66vw;
+  color: #000000;
+  margin-bottom: 6vh;
+  font-size: 18px;
+  line-height: 1.11;
+  display: block !important;
+}
+
+.carousel-caption.d-none.d-md-block h3{
+  display: none !important;
+}

@@ -1,0 +1,66 @@
+.send-div{
+  text-align: center;
+  width: 100%;
+  background-color: #f9f8f8;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.send-heart{
+  width:60px;
+  padding-top: 25px;
+}
+
+.send-text{
+  padding-top: 17px;
+}
+
+.send-card{
+  height: 40px;
+  border-radius: 4px;
+  background-color: #f9f8f8;
+  border: solid 1px #ef005c;
+  margin-top: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.send-card-text {
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  color: #ef005c;
+  padding-top: 5px;
+}
+
+.contact-div{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: Helvetica;
+  font-size: 14px;
+  color: #777777;
+}
+
+.nph-div{
+  height: 83px;
+  width: auto;
+  background-color: #f9f8f8;
+}
+
+.nph-img{
+  height:72;
+  width:66px;
+  margin-top: 6px;
+  margin-bottom: 5px;
+  margin-left: 19px;
+}
+
+.nph-text{
+  font-size:18px;
+  font-weight:500;
+  line-height:1.06;
+  color: #777777;
+  text-align: left;
+  padding-top: 29px;
+
+}
